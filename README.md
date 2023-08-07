@@ -7,3 +7,5 @@
 ### Features to add:
 - [ ] Captured pieces go off to the side of the board
 - [ ] Clock
+- [ ] Sound effects for when the pieces get moved
+- [ ] Animations fo when the pieces get moved
