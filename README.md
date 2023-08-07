@@ -9,3 +9,5 @@
 - [ ] Clock
 - [ ] Sound effects for when the pieces get moved
 - [ ] Animations fo when the pieces get moved
+- [ ] Choose different themes
+- [ ] Toggle for light and dark mode
